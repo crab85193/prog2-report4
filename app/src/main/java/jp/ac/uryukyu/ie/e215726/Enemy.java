@@ -55,56 +55,64 @@ public class Enemy {
     }
 
     /**
-     *
+     * 名前を取得するメソッド。
+     * @return モンスターの名前
      */
     public String getName(){
         return name;
     }
 
     /**
-     *
+     * ヒットポイントを取得するメソッド。
+     * @return モンスターのヒットポイント
      */
     public int getHitPoint(){
         return hitPoint;
     }
 
     /**
-     *
+     * 攻撃力を取得するメソッド。
+     * @return モンスターの攻撃力
      */
     public int getAttack(){
         return attack;
     }
 
     /**
-     *
+     * 生存状態を取得するメソッド。
+     * @return モンスターの生存状態
      */
     public boolean isDead(){
         return dead;
     }
 
     /**
-     *
+     * 名前を設定するメソッド。
+     * @param name モンスターの名前
      */
     public void setName(String name){
         this.name = name;
     }
 
     /**
-     *
+     * ヒットポイントを設定するメソッド。
+     * @param hitPoint モンスターのヒットポイント
      */
     public void setHitPoint(int hitPoint){
         this.hitPoint = hitPoint;
     }
 
     /**
-     *
+     * 攻撃力を設定するメソッド。
+     * @param attack モンスターの攻撃力
      */
     public void setAttack(int attack){
         this.attack = attack;
     }
 
     /**
-     *
+     * 生存状態を設定するメソッド。
+     * @param dead モンスターの生存状態
      */
     public void setDead(boolean dead){
         this.dead = dead;
