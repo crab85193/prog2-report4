@@ -3,7 +3,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/crab85193/prog2_report3?style=social)
 ![Java](https://img.shields.io/badge/java-v17.0.1-007396.svg?logo=java&style=popout)
 ![Gradle](https://img.shields.io/badge/v7.3-Gradle-02303A?logo=Gradle&style=popout)
-![Groovy](https://img.shields.io/badge/v7.3-ApacheGroovy-4298B8?logo=ApacheGroovy&style=popout)
+![Groovy](https://img.shields.io/badge/v3.0.9-ApacheGroovy-4298B8?logo=ApacheGroovy&style=popout)
 ![](https://img.shields.io/badge/v1.5.31-Kotlin-7F52FF?logo=Kotlin&style=popout)
 
 プログラミング２の課題レポート３のリポジトリです。
